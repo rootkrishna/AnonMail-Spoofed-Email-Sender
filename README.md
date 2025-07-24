@@ -39,5 +39,5 @@
 
 ```bash
 pip install smtplib email
- ```bash
+
 python anonmail.py
